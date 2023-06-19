@@ -1,0 +1,30 @@
+body{
+    background-color: rosybrown;
+    color: black;
+}
+
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin: 200px;
+}
+
+#memePic{
+    margin-right: 200px;
+    text-align: center;
+}
+
+#bodyText{
+    margin-right: 200px;
+}
+
+header{
+    text-align: center;
+}
